@@ -122,23 +122,6 @@ Uploaded files are stored in:
 data/uploads/
 ```
 
-## Notes for GitHub Upload
-
-Recommended to upload:
-
-- `src/`
-- `build.gradle`
-- `README.md`
-
-Recommended to exclude:
-
-- `.gradle/`
-- `build/`
-- `data/`
-- `.vscode/`
-
-If this repository will be public, consider moving sensitive values such as passwords or invite codes to environment variables before publishing.
-
 ## License
 
 This project is intended for educational use.
