@@ -108,7 +108,7 @@ Important settings include:
 - H2 database path
 - Upload size limits
 - JSP view resolver
-- Teacher invite code
+- Teacher invite code:HKMU-TEACHER-2026
 
 Current database configuration uses a local file:
 
