@@ -1,0 +1,9 @@
+Lecture 1 Notes
+
+Topic: Introduction to Web Applications
+
+Key points:
+- Client-server request flow
+- MVC architecture
+- Server-side rendering with JSP
+- Basic course project structure

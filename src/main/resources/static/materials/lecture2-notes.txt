@@ -1,0 +1,9 @@
+Lecture 2 Notes
+
+Topic: Spring Boot and JSP Basics
+
+Key points:
+- Spring Boot controller routing
+- JSP page rendering
+- Data binding with model attributes
+- Using Bootstrap for layout
